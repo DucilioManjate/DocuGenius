@@ -1,4 +1,3 @@
-// module-info.java
 module org.example.documentservice {
     requires javafx.controls;
     requires javafx.fxml;
